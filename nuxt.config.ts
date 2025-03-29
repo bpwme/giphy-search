@@ -10,5 +10,10 @@ export default defineNuxtConfig({
     plugins: [
       tailwindcss()
     ]
+  },
+  runtimeConfig: {
+    public: {
+      giphyApiKey: process.env.NUXT_GIPHY_KEY
+    }
   }
 })
