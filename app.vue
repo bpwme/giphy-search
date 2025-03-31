@@ -1,6 +1,5 @@
 <template>
-  <div>
-      <h1 class="text-red-400">Hello Nuxt</h1>
-      <GifGrid/>
+  <div class="min-h-screen relative bg-slate-800 text-zinc-50">
+    <GiphySearch />
   </div>
 </template>
