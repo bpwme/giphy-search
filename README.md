@@ -1,5 +1,5 @@
 ## Setup
-1. Copy `.env.example` to `.env` and fill in your key.
+1. Copy `.env.example` to `.env` and fill in your key. https://developers.giphy.com/dashboard/?create=true
 2. Install dependencies:
 ```bash
 npm install
